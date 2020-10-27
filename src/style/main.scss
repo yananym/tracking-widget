@@ -3,6 +3,14 @@ body {
   text-align: center;
 }
 
+.tradingview-widget-copyright {
+  display: none;
+}
+
+.tradingview-widget-container {
+  height: 64px !important;
+}
+
 img {
   display: block;
   margin: 50px auto;
